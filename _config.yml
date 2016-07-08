@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://RostaTasha.github.io
+title: tashalot
+tagline: Per aspera ad astra
+description: Monkey programming step by step blog
+paginate: 5

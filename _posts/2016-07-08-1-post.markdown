@@ -1,0 +1,6 @@
+---
+published: true
+title: #1 post
+layout: post
+---
+Ping post. Don't take it seriously. 
